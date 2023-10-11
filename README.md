@@ -1,6 +1,9 @@
 # Java_project_Bookkeeping
 使用Java写的记账本，可以记录收入支出（A Book of accounts written in Java that records income and expenditure）
 
+***注意！有两个版本，menu.java是一个面向过程的版本***
+***menu_oop.java是面向对象的版本，use_menu.java是调用menu.oop文件的***
+
 
 ![image](https://github.com/Lappland404/Java_project_Bookkeeping/assets/147624552/9c813a60-446f-4c80-82e0-575532dcb520)
 
